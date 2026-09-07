@@ -243,3 +243,6 @@ This repository serves as the official landing page for Dungeon Crawl Stone Soup
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dungeon Crawl Stone Soup today!**
+
+---
+**Last updated:** 2026-09-07 18:56:32 UTC
