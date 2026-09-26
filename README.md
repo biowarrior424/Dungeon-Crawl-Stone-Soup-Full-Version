@@ -245,4 +245,4 @@ This repository serves as the official landing page for Dungeon Crawl Stone Soup
 **Get the most recent version of Dungeon Crawl Stone Soup today!**
 
 ---
-**Last updated:** 2026-09-26 13:32:24 UTC
+**Last updated:** 2026-09-26 17:32:12 UTC
